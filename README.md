@@ -2,12 +2,11 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Oluwajomiloju Adebisi-Olusola`
+- **CCID:** `adebisio`
 
 ## References and Resources
-
-List any resources used here, or simply put `N/A` if not applicable.
+https://www.geeksforgeeks.org/kotlin/kotlin-programming-language/
 
 ## Verbal Collaboration
 
